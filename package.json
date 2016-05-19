@@ -1,0 +1,19 @@
+{
+  "name": "blast_furnace",
+  "version": "0.0.1",
+  "description": "blast furnace for js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markryall/blast_furnace_js.git"
+  },
+  "author": "Mark Ryall <mark@ryall.name> (http://mark.ryall.name)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markryall/blast_furnace_js/issues"
+  },
+  "homepage": "https://github.com/markryall/blast_furnace_js#readme"
+}
